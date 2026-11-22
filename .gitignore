@@ -1,0 +1,5 @@
+# Build intermediates and downloaded press-pack assets stay out of the repo;
+# the scripts in build/ fetch or regenerate everything they need.
+build/work/
+build/assets/
+out/
